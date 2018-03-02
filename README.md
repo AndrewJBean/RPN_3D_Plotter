@@ -1,5 +1,5 @@
 # RPN_3D_Plotter
-This is 3D plotting program using OpenGL, C++, and Qt.
+This is a 3D plotting program using OpenGL, C++, and Qt.
 
 ![Screenshot](screen.png)
 
